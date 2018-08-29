@@ -1,0 +1,7 @@
+pandit
+cancancan
+gem for image uploading
+rake tasks
+haroku
+Active Record Callbacks
+Acive Record Associations
